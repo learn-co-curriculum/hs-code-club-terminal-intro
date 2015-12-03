@@ -6,7 +6,7 @@ You've been using terminal all along without a real walkthrough on how to do it.
 
 ##Some Things You Should Know
 
-You're going to be tackling the lesson `#`. If you finish that and still want more, take a stab at the `#` lab. 
+You're going to be tackling the lesson `Lesson: Command Line Castle Code Along`. If you finish that and still want more, take a stab at the `Find Missing Pet` lab. 
 
 ## Share Share Share!
 
