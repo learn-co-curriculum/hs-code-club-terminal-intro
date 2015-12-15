@@ -10,5 +10,5 @@ You're going to be tackling the lesson `Lesson: Command Line Castle Code Along`.
 
 ## Share Share Share!
 
-We love to see your progress! When you finish `#`, screenshot your terminal and share with **\#flatironcodeclub** and **\#jquerydecorator**.
+We love to see your progress! When you finish `#`, screenshot your terminal and share with **\#flatironcodeclub** and **\#findmissingpet**.
 
