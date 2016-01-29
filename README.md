@@ -12,3 +12,5 @@ You're going to be tackling the lesson `Lesson: Command Line Castle Code Along`.
 
 We love to see your progress! When you finish `#`, screenshot your terminal and share with **\#flatironcodeclub** and **\#findmissingpet**.
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-code-club-terminal-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
